@@ -10,3 +10,4 @@
  * soft-skills
    + communication
    + emotional intelligence
+   + empathy
