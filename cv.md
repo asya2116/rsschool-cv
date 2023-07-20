@@ -4,9 +4,9 @@
    + 89199148619
  * adress
    + Magas sity
- * hard-skills:
+ * hard-skills
    + graphic designer
    + agricultural engineer
- * soft-skills:
+ * soft-skills
    + communication
    + emotional intelligence
